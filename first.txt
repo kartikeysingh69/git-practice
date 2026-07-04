@@ -1,1 +1,3 @@
-i#this is my first commit
+#this is my first commit
+
+tis is second line of code
